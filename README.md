@@ -1,2 +1,2 @@
 # News_App
-I developed this app using html,css,javascript
+I developed this app using html,css,javascript with responsive
